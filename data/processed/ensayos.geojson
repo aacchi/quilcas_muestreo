@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drought Trial - Quilcas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2401,
+          -11.9056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mashua Trial - Quilcas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.248,
+          -11.9194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drought Trial - Caja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21,
+          -11.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mashua Trial - UNSAAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.22,
+          -11.93
+        ]
+      }
+    }
+  ]
+}
