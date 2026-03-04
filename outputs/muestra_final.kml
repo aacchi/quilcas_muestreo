@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="39">
+            <IconStyle id="40">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="41">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="44">
+            <IconStyle id="45">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="46">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="49">
+            <IconStyle id="50">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="51">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="54">
+            <IconStyle id="55">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="56">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="59">
+            <IconStyle id="60">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="61">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="69">
+            <IconStyle id="70">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="71">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="74">
+            <IconStyle id="75">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="76">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="79">
+            <IconStyle id="80">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="81">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="84">
+            <IconStyle id="85">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="86">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="89">
+            <IconStyle id="90">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="91">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="99">
+            <IconStyle id="100">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="101">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="104">
+            <IconStyle id="105">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="106">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="109">
+            <IconStyle id="110">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="111">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="114">
+            <IconStyle id="115">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="116">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="119">
+            <IconStyle id="120">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="121">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="129">
+            <IconStyle id="130">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="131">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="134">
+            <IconStyle id="135">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="136">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="139">
+            <IconStyle id="140">
+                <color>ff0066ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="141">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="144">
+            <IconStyle id="145">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="146">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="149">
+            <IconStyle id="150">
+                <color>ff00cc00</color>
+                <colorMode>normal</colorMode>
+                <scale>1.3</scale>
+                <heading>0</heading>
+                <Icon id="151">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>V01 | quechua_alto</name>
+            <description>Orden: 1
+Piso: quechua_alto
+Elevacion: 3491m
+Techos en predio: 6
+
+REEMPLAZO 1: -11.934598193333334, -75.24925820333334
+REEMPLAZO 2: -11.93432499, -75.24937435
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>-75.24933038166667,-11.934975166666668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>V02 | quechua_alto</name>
+            <description>Orden: 2
+Piso: quechua_alto
+Elevacion: 3339m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.93391265, -75.2561714
+REEMPLAZO 2: -11.9335372125, -75.25603517
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>-75.25672115,-11.93411832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>V03 | suni_bajo</name>
+            <description>Orden: 3
+Piso: suni_bajo
+Elevacion: 3525m
+Techos en predio: 2
+
+REEMPLAZO 1: -11.93407864, -75.24679883
+REEMPLAZO 2: -11.9332824575, -75.246215365
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>-75.247063465,-11.933461054999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>V04 | suni_bajo</name>
+            <description>Orden: 4
+Piso: suni_bajo
+Elevacion: 3550m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.933134366, -75.245323964
+REEMPLAZO 2: -11.93257045, -75.2454003
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>-75.24466858,-11.9333284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>V05 | quechua_alto</name>
+            <description>Orden: 5
+Piso: quechua_alto
+Elevacion: 3391m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.93342977, -75.25499413
+REEMPLAZO 2: -11.93281119, -75.25530819
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>-75.25500058,-11.93322621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>V06 | quechua_alto</name>
+            <description>Orden: 6
+Piso: quechua_alto
+Elevacion: 3481m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.933161456666667, -75.24998532000001
+REEMPLAZO 2: -11.932967487500001, -75.2497151925
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>-75.25000616,-11.93297187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>V07 | quechua_alto</name>
+            <description>Orden: 7
+Piso: quechua_alto
+Elevacion: 3437m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.93263333, -75.25335459
+REEMPLAZO 2: -11.93281892, -75.25343598
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>-75.25283611,-11.93274354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="38">
+            <name>V08 | suni_bajo</name>
+            <description>Orden: 8
+Piso: suni_bajo
+Elevacion: 3561m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.93257045, -75.2454003
+REEMPLAZO 2: -11.933134366, -75.245323964
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#39</styleUrl>
+            <Point id="37">
+                <coordinates>-75.24371454,-11.93154504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>V09 | suni_bajo</name>
+            <description>Orden: 9
+Piso: suni_bajo
+Elevacion: 3524m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.930795235000001, -75.247934485
+REEMPLAZO 2: -11.93056999, -75.24874968
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#44</styleUrl>
+            <Point id="42">
+                <coordinates>-75.2479266,-11.9305581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="48">
+            <name>V10 | quechua_alto</name>
+            <description>Orden: 10
+Piso: quechua_alto
+Elevacion: 3493m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.93119918, -75.25098832
+REEMPLAZO 2: -11.929731606666666, -75.25203995333334
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#49</styleUrl>
+            <Point id="47">
+                <coordinates>-75.25016425,-11.9301565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>V11 | suni_bajo</name>
+            <description>Orden: 11
+Piso: suni_bajo
+Elevacion: 3547m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.92950993, -75.245535675
+REEMPLAZO 2: -11.930268153333335, -75.24589259666666
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#54</styleUrl>
+            <Point id="52">
+                <coordinates>-75.24523021,-11.92984354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="58">
+            <name>V12 | suni_bajo</name>
+            <description>Orden: 12
+Piso: suni_bajo
+Elevacion: 3626m
+Techos en predio: 4
+
+REEMPLAZO 1: -11.93017127, -75.24057242
+REEMPLAZO 2: -11.928904529999999, -75.24502131999999
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#59</styleUrl>
+            <Point id="57">
+                <coordinates>-75.2407612475,-11.929636195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>V13 | quechua_alto</name>
+            <description>Orden: 13
+Piso: quechua_alto
+Elevacion: 3371m
+Techos en predio: 3
+
+REEMPLAZO 1: -11.929765165, -75.2570881
+REEMPLAZO 2: -11.9293664, -75.25663036
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>-75.2569579,-11.929526176666664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="68">
+            <name>V14 | quechua_alto</name>
+            <description>Orden: 14
+Piso: quechua_alto
+Elevacion: 3445m
+Techos en predio: 8
+
+REEMPLAZO 1: -11.92894039, -75.25203915
+REEMPLAZO 2: -11.929731606666666, -75.25203995333334
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#69</styleUrl>
+            <Point id="67">
+                <coordinates>-75.2520749,-11.9293032275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>V15 | quechua_alto</name>
+            <description>Orden: 15
+Piso: quechua_alto
+Elevacion: 3398m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.928493955, -75.25492409666667
+REEMPLAZO 2: -11.9286302, -75.25467601
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#74</styleUrl>
+            <Point id="72">
+                <coordinates>-75.25505422,-11.928903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="78">
+            <name>V16 | quechua_alto</name>
+            <description>Orden: 16
+Piso: quechua_alto
+Elevacion: 3425m
+Techos en predio: 3
+
+REEMPLAZO 1: -11.927357506666667, -75.25287322999999
+REEMPLAZO 2: -11.92750639, -75.25311515
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#79</styleUrl>
+            <Point id="77">
+                <coordinates>-75.25287915333332,-11.927577916666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>V17 | quechua_alto</name>
+            <description>Orden: 17
+Piso: quechua_alto
+Elevacion: 3457m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.92710946, -75.25055469
+REEMPLAZO 2: -11.92731102, -75.25039528
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#84</styleUrl>
+            <Point id="82">
+                <coordinates>-75.25038567,-11.92703076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="88">
+            <name>V18 | suni_bajo</name>
+            <description>Orden: 18
+Piso: suni_bajo
+Elevacion: 3577m
+Techos en predio: 2
+
+REEMPLAZO 1: -11.92468122, -75.24452421
+REEMPLAZO 2: -11.924614637142856, -75.24419280857144
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#89</styleUrl>
+            <Point id="87">
+                <coordinates>-75.24475769,-11.92578623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>V19 | quechua_alto</name>
+            <description>Orden: 19
+Piso: quechua_alto
+Elevacion: 3384m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.92561153, -75.25527239
+REEMPLAZO 2: -11.92537246, -75.25514806
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>-75.25548572,-11.9256992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="98">
+            <name>V20 | suni_bajo</name>
+            <description>Orden: 20
+Piso: suni_bajo
+Elevacion: 3641m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.925017185, -75.24231789000001
+REEMPLAZO 2: -11.92396276, -75.2432779
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#99</styleUrl>
+            <Point id="97">
+                <coordinates>-75.24138566,-11.92538772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>V21 | quechua_alto</name>
+            <description>Orden: 21
+Piso: quechua_alto
+Elevacion: 3394m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.92561153, -75.25527239
+REEMPLAZO 2: -11.927882035, -75.253942025
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#104</styleUrl>
+            <Point id="102">
+                <coordinates>-75.25514806,-11.92537246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="108">
+            <name>V22 | suni_bajo</name>
+            <description>Orden: 22
+Piso: suni_bajo
+Elevacion: 3549m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.9244451, -75.24766327
+REEMPLAZO 2: -11.923850453333332, -75.24778085999999
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#109</styleUrl>
+            <Point id="107">
+                <coordinates>-75.2474815,-11.92459852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>V23 | quechua_alto</name>
+            <description>Orden: 23
+Piso: quechua_alto
+Elevacion: 3453m
+Techos en predio: 3
+
+REEMPLAZO 1: -11.924907995, -75.25058816
+REEMPLAZO 2: -11.92527496, -75.25078243
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#114</styleUrl>
+            <Point id="112">
+                <coordinates>-75.25138385999999,-11.924492666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="118">
+            <name>V24 | suni_bajo</name>
+            <description>Orden: 24
+Piso: suni_bajo
+Elevacion: 3587m
+Techos en predio: 3
+
+REEMPLAZO 1: -11.92396276, -75.2432779
+REEMPLAZO 2: -11.924614637142856, -75.24419280857144
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#119</styleUrl>
+            <Point id="117">
+                <coordinates>-75.24344127333333,-11.92349559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>V25 | quechua_alto</name>
+            <description>Orden: 25
+Piso: quechua_alto
+Elevacion: 3437m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.92249499, -75.25176705
+REEMPLAZO 2: -11.92190874, -75.25052528666667
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>-75.25191055,-11.92271613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="128">
+            <name>V26 | quechua_alto</name>
+            <description>Orden: 26
+Piso: quechua_alto
+Elevacion: 3443m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.92190874, -75.25052528666667
+REEMPLAZO 2: -11.92232105, -75.25029964
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#129</styleUrl>
+            <Point id="127">
+                <coordinates>-75.25176705,-11.92249499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>V27 | suni_bajo</name>
+            <description>Orden: 27
+Piso: suni_bajo
+Elevacion: 3598m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.92396276, -75.2432779
+REEMPLAZO 2: -11.925017185, -75.24231789000001
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#134</styleUrl>
+            <Point id="132">
+                <coordinates>-75.24228388,-11.92241202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="138">
+            <name>V28 | suni_bajo</name>
+            <description>Orden: 28
+Piso: suni_bajo
+Elevacion: 3502m
+Techos en predio: 1
+
+REEMPLAZO 1: -11.9217989, -75.2468002
+REEMPLAZO 2: -11.92215344, -75.24597551
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#139</styleUrl>
+            <Point id="137">
+                <coordinates>-75.24675325,-11.9221482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>V29 | quechua_alto</name>
+            <description>Orden: 29
+Piso: quechua_alto
+Elevacion: 3461m
+Techos en predio: 2
+
+REEMPLAZO 1: -11.921681623333333, -75.24948105666667
+REEMPLAZO 2: -11.922016443333334, -75.24963713
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#144</styleUrl>
+            <Point id="142">
+                <coordinates>-75.249735455,-11.92175735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="148">
+            <name>V30 | quechua_alto</name>
+            <description>Orden: 30
+Piso: quechua_alto
+Elevacion: 3445m
+Techos en predio: 3
+
+REEMPLAZO 1: -11.91954926, -75.25121302
+REEMPLAZO 2: -11.920044973333333, -75.25106742666667
+
+TAMIZAJE: Su familia cultiva alguna parcela?
+[ ] SI -&gt; encuestar
+[ ] NO -&gt; ir a Reemplazo 1</description>
+            <styleUrl>#149</styleUrl>
+            <Point id="147">
+                <coordinates>-75.25128037333333,-11.91980032,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
